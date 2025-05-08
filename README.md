@@ -1,4 +1,3 @@
-# Concrete_Crack_Detection
 
 # Concrete Crack Detection using CNN
 
@@ -36,7 +35,7 @@ Manual inspection of cracks in concrete structures is time-consuming and prone t
 - Python source code: `cmps6720_1_final_project.py`
 - Evaluation plots: confusion matrix, ROC curve, accuracy/loss graph
 - Sample prediction outputs
-- `requirements.txt` for dependencies
+
 
 ## How to Run
 
