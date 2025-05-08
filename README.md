@@ -41,3 +41,15 @@ Manual inspection of cracks in concrete structures is time-consuming and prone t
 ## How to Run
 
 1. Install dependencies:
+  tensorflow>=2.10
+  numpy>=1.21
+  matplotlib>=3.4
+  pandas>=1.3
+  scikit-learn>=1.0
+  seaborn>=0.11
+  Pillow>=8.0
+
+## Reference
+
+Dataset: https://www.kaggle.com/datasets/arnavr10880/concrete-crack-images-for-classification
+
